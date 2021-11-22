@@ -61,7 +61,7 @@ class MainActivity : AppCompatActivity() {
             4 -> R.drawable.dice_4
             5 -> R.drawable.dice_5
             6 -> R.drawable.dice_6
-            else -> R.drawable.empty_dice
+            else -> R.drawable.dice_1
         }
 
         lastRandom=randomPickedNumber
