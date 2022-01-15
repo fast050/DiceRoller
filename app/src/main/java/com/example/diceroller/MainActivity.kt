@@ -48,7 +48,7 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-     private fun rollDice(number: Int=-1) {
+    private fun rollDice(number: Int=-1) {
 
 
         while (randomPickedNumber==lastRandom)

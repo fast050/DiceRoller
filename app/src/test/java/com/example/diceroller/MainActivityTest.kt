@@ -23,7 +23,6 @@ class MainActivityTest(val expected: Int, val number: Int  , scenario: String) {
             arrayOf(R.drawable.dice_5,5,"random number"),
             arrayOf(R.drawable.dice_6,6,"random number"),
             arrayOf(R.drawable.empty_dice,7,"random number")
-
         )
 
     }
